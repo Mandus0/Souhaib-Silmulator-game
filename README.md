@@ -1,6 +1,6 @@
 # Souhaib-Silmulator-game
 
-this game is a friendly fire. We mean no offence and this is not an act of bullying . PLease do not misinterpret this, we will try pur best to keep this game from spreading but if it does we would not like to be held responsible.
+this game is a friendly fire. We mean no offence and this is not an act of bullying . Please do not misinterpret this, we will try pur best to keep this game from spreading but if it does we would not like to be held responsible.
 
 -you have to kill the vegtables by jumping on them
 -navigate the map left and right using the arrow keys and jump using the space bar
