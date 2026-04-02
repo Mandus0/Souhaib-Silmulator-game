@@ -1,16 +1,16 @@
 # Souhaib-Silmulator-game
 
-this game is a friendly fire. We mean no offence and this is not an act of bullying . PLease do not misinterpret this, we will try pur best to keep this game from spreading but if it does we would not like to be held risponsable
+this game is a friendly fire. We mean no offence and this is not an act of bullying . PLease do not misinterpret this, we will try pur best to keep this game from spreading but if it does we would not like to be held responsible.
 
--you have to kill the vegtables by jumping on the
+-you have to kill the vegtables by jumping on them
 -navigate the map left and right using the arrow keys and jump using the space bar
 -you have to make it all the way to the bridge and past (prbly impossible)
--the stomachs at the top ight o the screen are your lives once they hit 0 you have to restart
+-the stomachs at the top right of the screen are your lives once they hit 0 you have to restart
 -music credited to Nintendo
 -IMPORTANT keep the window on minimized do not expand to fullscreen (you can if you want but it will not be a nice view)
 
 How to download:
-- to the right of the tab look for about
+- to the right of the tab look for "About"
 - after locating about keep looking down until you see "Releases (1)"
 - directly under it there is a clickable hyper link (js click on the "Souhaib Sim") it should ave a green tag before it and "Latest" after it in green
 - click the Souhiab Sim
