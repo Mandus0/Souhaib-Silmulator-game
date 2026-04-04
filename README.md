@@ -11,9 +11,9 @@ this game is a friendly fire. We mean no offence and this is not an act of bully
 
 How to download:
 - to the right of the tab look for "About"
-- after locating about keep looking down until you see "Releases (1)"
-- directly under it there is a clickable hyper link (js click on the "Souhaib Sim") it should ave a green tag before it and "Latest" after it in green
-- click the Souhiab Sim
+- after locating about keep looking down until you see "Releases (2)"
+- directly under it there is a clickable hyper link (js click on the "Souhaib Simulator") it should ave a green tag before it and "Latest" after it in green
+- click the Souhiab Simulator
 - after clicking on it under "Assest" ONLY click on "souhaib.simulator.zip" click on the name
 - it should start the download
 - extract and enjoy
