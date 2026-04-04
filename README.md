@@ -14,7 +14,7 @@ How to download:
 - after locating about keep looking down until you see "Releases (2)"
 - directly under it there is a clickable hyper link (js click on the "Souhaib Simulator") it should ave a green tag before it and "Latest" after it in green
 - click the Souhiab Simulator
-- after clicking on it under "Assest" ONLY click on "souhaib.simulator.zip" click on the name
+- after clicking on it under "Assest" ONLY click on "souhaib.zip" click on the name
 - it should start the download
 - extract and enjoy
 
